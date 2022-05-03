@@ -1,11 +1,3 @@
-# TIN-project
-INSTALLATION & SETUP
-
-The Raspberry Pi 3 B was equipped with Raspbian as its Operating System. After the installation for the OS is finished, 
-remote connection features were set up to ease user jobs to maintain the Raspberry Pi and to create the bridge connection 
-between public Wi-Fi access (IIT H Guest) and user’s device.
-
-
 Pi-Hole
 
 Method 1 (Automated Installer)
